@@ -1,4 +1,4 @@
-![I'm Aminul Islam,](https://github.com/aminulehsan/aminulehsan/blob/main/aminulislam.png)
+![I'm Aminul Islam,](https://github.com/theaminuldev/theaminuldev/blob/main/Github-Profile-Photo.png)
 ## Hey, there my gorgeous friend 👋,
 
 ### 🙋‍♂️ About Me:
