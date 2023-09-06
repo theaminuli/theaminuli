@@ -45,17 +45,12 @@ Let's connect and explore the possibilities of web development together. Whether
 
 ### 📊 My Github Stats :
 
-  <br/>
-    <a href="">
-      <img width= "50%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theaminuldev&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img width= "50%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theaminuldev&theme=react&line_height=40&hide=css"/>
-    </a>
-  <br/>
- 
 <br/>
-
+  <div style="display: flex; flex-wrap: wrap">
+    <a href=""><img width= "100%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theaminuldev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img width= "100%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theaminuldev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
+<br/>
 ###  ☕ Connect with me!
 <p align="left">
 
