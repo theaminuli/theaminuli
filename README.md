@@ -47,15 +47,8 @@ Let's connect and explore the possibilities of web development together. Whether
 ## 📊 My Github Stats :
 
   <br/>
-    <a href="https://github.com/theaminuldev/github-readme-stats"><img width= "100%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theaminuldev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/theaminuldev/github-readme-stats"><img width= "100%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuldev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/theaminuldev/github-readme-stats"><img width= "50%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theaminuldev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/theaminuldev/github-readme-stats"><img width= "50%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuldev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/theaminuldev/github-readme-activity-graph"><img alt="Aminul Islam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theaminuldev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
