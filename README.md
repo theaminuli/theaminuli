@@ -11,11 +11,11 @@ Driven by a relentless commitment to stay at the forefront of industry trends, I
 
 I'm all about the extraordinary journey of life. 🌟
 
-🌍 Exploring the world one adventure at a time.
-📚 Lifelong learner, forever curious.
-💻 Tech enthusiast, coding my way through innovation.
-🚀 Passion for Programming, Learning, and Career Growth
-👨‍💻 Front-End Software Engineer
+🌍 Exploring the world one adventure at a time.<br>
+📚 Lifelong learner, forever curious.<br>
+💻 Tech enthusiast, coding my way through innovation.<br>
+🚀 Passion for Programming, Learning, and Career Growth <br>
+👨‍💻 Front-End Software Engineer <br>
 
 Let's connect and explore the possibilities of web development together. Whether it's discussing the latest trends, collaborating on projects, or sharing insights, I'm here to create innovative digital experiences that make a difference. Reach out, and let's shape the future of the web, one line of code at a time! 🚀📚
 
