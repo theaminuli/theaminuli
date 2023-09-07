@@ -1,10 +1,9 @@
 ![I'm Aminul Islam,](https://github.com/theaminuldev/theaminuldev/blob/main/Github-Profile-Photo.png)
-## Hey, there my gorgeous friend 👋,
+### Hey, there my gorgeous friend 👋,
 
 ## 🙋‍♂️ About Me:
 
-👋 Hey there!
-I'm Md. Aminul, a versatile front-end software engineer, and efficient WordPress developer, with a strong focus on JavaScript and React development. My journey revolves around the art of code and the pursuit of professional excellence, creating visually appealing websites and applications.🌐
+I'm Aminul, a versatile front-end software engineer, and efficient WordPress developer, with a strong focus on JavaScript and React development. My journey revolves around the art of code and the pursuit of professional excellence, creating visually appealing websites and applications.🌐
 
 With proficiency in a range of technologies including HTML, CSS, JavaScript, React, Node.js, and PHP, I possess a deep understanding of web development principles and adhere to best practices. My expertise extends to WordPress, where I excel in theme and plugin development, website customization, and performance optimization.💡
 
