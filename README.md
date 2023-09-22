@@ -49,10 +49,10 @@ Let's connect and explore the possibilities of web development together. Whether
 
 <p>
   <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=theaminuldev">
-    <img width= "50%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theaminuldev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width= "49%" alt="Aminul Islam's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theaminuldev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a> 
   <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theaminuldev">
-    <img width= "50%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theaminuldev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width= "49%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theaminuldev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
