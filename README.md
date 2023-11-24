@@ -72,6 +72,3 @@ Let's connect and explore the possibilities of web development together. Whether
 <a href="https://github.com/theaminuldev?tab=followers">
    <img src="https://img.shields.io/github/followers/theaminuldev?label=followers&logo=github&style=for-the-badge" alt="GitHub Badge">
 </a>
-<a href="https://github.com/theaminuldev/github-profile-views-counter">
-    <img height="28" src="https://komarev.com/ghpvc/?username=theaminuldev&label=Profile Views&logo=github&style=flat-square">
-</a>
