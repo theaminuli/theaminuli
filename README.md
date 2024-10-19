@@ -9,7 +9,7 @@ With proficiency in a range of technologies including **HTML, CSS, JavaScript, R
 
 Driven by a relentless commitment to stay at the forefront of industry trends, I am always keen to adopt new technologies and methodologies, ensuring that I deliver state-of-the-art solutions.
 
-#### 🌍 A Mindful Explorer 
+#### 🌄 A Mindful Explorer 
 🌍 Explorer of new ideas and places. <br> 
 📚 Lifelong learner with a deep curiosity for tech. <br> 
 💻 Constantly coding and innovating to build impactful digital solutions. <br> 
