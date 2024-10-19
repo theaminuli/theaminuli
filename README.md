@@ -9,8 +9,6 @@ With proficiency in a range of technologies including **HTML, CSS, JavaScript, R
 
 Driven by a relentless commitment to stay at the forefront of industry trends, I am always keen to adopt new technologies and methodologies, ensuring that I deliver state-of-the-art solutions.
 
-I'm all about the extraordinary journey of life. 🌟
-
 #### 🌍 A Mindful Explorer 
 🌍 Explorer of new ideas and places. <br> 
 📚 Lifelong learner with a deep curiosity for tech. <br> 
@@ -21,7 +19,7 @@ I'm all about the extraordinary journey of life. 🌟
 
 Let's connect and explore the possibilities of web development together. Whether it's discussing the latest trends, collaborating on projects, or sharing insights, I'm here to create innovative digital experiences that make a difference. Reach out, and let's shape the future of the web, one line of code at a time! 🚀📚
 
-#FrontEndDev #theaminul #CodeLife #CareerGrowth #Programming #Wordpress #Elementor #TheAminul #Javascript #React
+#FrontEndDev **#theaminul** #CodeLife #CareerGrowth #Programming #Wordpress #Elementor **#TheAminul** #Javascript #React
 
 ## 👨‍💻 Skills & Experiance: 
 
