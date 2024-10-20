@@ -9,7 +9,7 @@ I continually strive to stay at the forefront of industry trends, embracing new 
 
 Outside of coding, I love exploring new ideas and places. I am committed to professional growth, collaboration, and making a meaningful impact through my work. Let’s connect, share knowledge, and build something great together!
 
-#theaminul #CodeLife #JavaScript #Programming #WordPress #Elementor #React
+**#theaminul** #CodeLife #JavaScript #Programming #WordPress #Elementor #React
 ## 👨‍💻 Skills & Experiance: 
 
 👉 JavaScript, React, Next.js, Node.js, JQuery <br>
