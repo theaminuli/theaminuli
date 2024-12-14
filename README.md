@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me:
 
-I'm **Aminul**, a **Front-End Software Engineer** and **WordPress Developer** with a passion for ***the art of coding***. My expertise includes technologies such as **HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, and PHP**, along with development, customization, and performance optimization of WordPress themes and plugins.
+I'm **Aminul**, a **Front-End Software** and **WordPress Developer** with a passion for ***the art of coding***. My expertise includes technologies such as **HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, and PHP**, along with development, customization, and performance optimization of WordPress themes and plugins.
 
 I continually strive to stay at the forefront of industry trends, embracing new tools and technologies to deliver cutting-edge solutions. For me, coding is both an art and a challenge—solving problems creatively while continuously learning and pushing my boundaries.
 
