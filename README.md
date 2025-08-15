@@ -1,5 +1,5 @@
 ![I'm Aminul Islam,](https://raw.githubusercontent.com/theaminuli/theaminul/refs/heads/main/Github-Profile-Photo.png)
-# 👋 Hey there, my curious friend!
+### 👋 Hey there, my curious friend!
 
 ## 🙋‍♂️ About Me
 
@@ -8,8 +8,6 @@ I’m **Md Aminul Islam** — known online as [@theaminuli](https://x.com/theami
 I work across the stack, mostly with **JavaScript**, **React**, **WordPress**, **PHP**, **Next.js**, and **REST APIs**. I care about **clean architecture**, **performance optimization**, and **accessibility-first design** — always striving to create experiences that feel intuitive and genuinely user-friendly.
 
 Find me around the web as **Aminul Islam (@theaminuli)** or at 🌐 [theaminul.com](https://theaminul.com).
-
----
 
 ## 👨‍💻 Skills & Experience
 
@@ -23,7 +21,6 @@ Find me around the web as **Aminul Islam (@theaminuli)** or at 🌐 [theaminul.c
 
 I see software as a blend of logic, design, and intention — where every line of code reflects clarity, creativity, and care. I’m always learning, always building, and always dreaming.
 
----
 ## Things I Code With
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
