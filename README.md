@@ -49,16 +49,12 @@ I see software as a blend of logic, design, and intention — where every line o
 
 <p style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
   <!-- GitHub Stats -->
-  <a href="https://github-readme-stats.vercel.app/api?username=theaminuli">
-    <img width="100%" alt="Aminul Islam's GitHub Stats" 
+  <img width="100%" alt="Aminul Islam's GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api?username=theaminuli&show_icons=true&rank_icon=github&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a> 
 
   <!-- Top Languages -->
-  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli">
-    <img width="100%" alt="Aminul Islam's Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli&layout=compact&card_width=300&theme=react&hide_border=true&bg_color=0D1117" />
-  </a> -->
+  <!-- <img width="100%" alt="Aminul Islam's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli&layout=compact&card_width=300&theme=react&hide_border=true&bg_color=0D1117" /> -->
 </p>
 
 #theaminul #CodeLife #JavaScript #React #WordPress #Elementor
