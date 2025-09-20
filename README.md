@@ -55,10 +55,10 @@ I see software as a blend of logic, design, and intention — where every line o
   </a> 
 
   <!-- Top Languages -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli">
+  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli">
     <img width="100%" alt="Aminul Islam's Top Languages" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli&layout=compact&card_width=300&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+  </a> -->
 </p>
 
 #theaminul #CodeLife #JavaScript #React #WordPress #Elementor
