@@ -5,7 +5,7 @@
 
 I’m **Md Aminul Islam** — known online as [@theaminuli](https://x.com/theaminuli). I’m an **engineer**, **designer**, and **philosophy enthusiast** with a deep passion for the art of coding. I believe great software isn’t just built — it’s a dream thoughtfully realized.
 
-I work across the stack, mostly with **JavaScript**, **React**, **WordPress**, **PHP**, **Next.js**, and **REST APIs**. I care about **clean architecture**, **performance optimization**, and **accessibility-first design** — always striving to create experiences that feel intuitive and genuinely user-friendly.
+I work across the stack, mostly with **JavaScript**, **React**, **Vue**,  **TypeScript**, **WordPress**, **PHP**, **Next.js**, and **REST APIs**. I care about **clean architecture**, **performance optimization**, and **accessibility-first design** — always striving to create experiences that feel intuitive and genuinely user-friendly.
 
 Find me around the web as **Aminul Islam (@theaminuli)** or at 🌐 [theaminul.com](https://theaminul.com).
 
