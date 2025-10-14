@@ -16,7 +16,16 @@ Find me around the web as **Aminul Islam (@theaminuli)** or at 🌐 [theaminul.c
 - **Workflow**: CI/CD, Agile Methodologies  
 - **Version Control**: Git, GitHub  
 - **Backend & CMS**: PHP, WordPress (Theme & Plugin Development) and REST APIs
-- **Databases**: MySQL, MongoDB and GraphQL
+- **Databases**: MySQL, MongoDB, PostgreSQL and GraphQL
+
+## 🧩 Projects I’ve Worked On
+Here are some of the WordPress plugins and tools I’ve helped build and maintain:
+
+- 🚀 [ElementsKit Lite](https://wordpress.org/plugins/elementskit-lite/) — The ultimate addon for Elementor with 90+ widgets and extensions.
+- 🧱 [GutenKit – Blocks Addon](https://wordpress.org/plugins/gutenkit-blocks-addon/) — A modern block toolkit for Gutenberg, built for speed and flexibility.
+- 🛒 [ShopEngine](https://wordpress.org/plugins/shopengine/) — The most complete WooCommerce builder for Elementor.
+- 🎯 [Popup Builder Block](https://wordpress.org/plugins/popup-builder-block/) — A lightweight popup builder for the WordPress block editor.
+
 ## 🧠 Philosophy
 
 I see software as a blend of logic, design, and intention — where every line of code reflects clarity, creativity, and care. I’m always learning, always building, and always dreaming.
